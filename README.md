@@ -36,7 +36,8 @@
 🎨 React Icons — A collection of modern and easy-to-use icons
 # 📸 Screenshot
 
-![Uploading CreateNextApp-GoogleChrome2025-09-0115-37-05-ezgif.com-video-to-gif-converter.gif…]()
+![CreateNextApp-GoogleChrome2025-09-0115-37-05-ezgif com-optimize](https://github.com/user-attachments/assets/93434803-f705-4169-b65d-d34fefc2e228)
+
 
 # 📧 Contact
 mervegecici8@gmail.com <br/>
